@@ -4,7 +4,7 @@
 **kkanika27/kkanika27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-<img src="https://datasci3.com/wp-content/uploads/2022/06/KK-datasc.png" align="center" style="width: 80%" />
+<img src="https://datasci3.com/wp-content/uploads/2022/08/Purple-Modern-Online-Course-Banner-Landscape.png" align="center" style="width: 80%" />
 </div>  
   
 
