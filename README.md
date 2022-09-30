@@ -11,7 +11,7 @@
 ### <div align="center">I'm Kanika, a full-time data scientist 👨‍💻 pursuing masters since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on a recommender system project  
+- 🔭 I’m currently working on a reinforcement learning project  
   
 
 - 🌱 I’m currently learning Deep learning and Neural Network  
