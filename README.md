@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Deep learning and Big Data. 
   
 
-- ❓ Ask me about anything related to Marketing Analytics, Machine Learning and related technologies  
+- ❓ Ask me about anything related to Marketing Analytics, Machine Learning and other related technologies  
   
 
 - ⚡ Fun fact: I love cats and dogs  
