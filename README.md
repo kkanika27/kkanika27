@@ -11,10 +11,10 @@
 ### <div align="center">I'm Kanika, a full-time data scientist 👨‍💻 pursuing masters since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on a Machine learning project  
+- 🔭 I’m currently working on a Big Data Analytics project  
   
 
-- 🌱 I’m currently learning Deep learning and Big Data. 
+- 🌱 I’m currently learning Visual Analytics and Big Data. 
   
 
 - ❓ Ask me about anything related to Marketing Analytics, Machine Learning and other related technologies  
