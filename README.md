@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a full-time data doctor 👨‍💻 pursuing masters since 2021 🚀</div>  
+### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 pursuing masters since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on a Big Data Analytics project  
