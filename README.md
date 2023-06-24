@@ -8,16 +8,16 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 pursuing masters since 2021 🚀</div>  
+### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 completed masters in 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on a Big Data Analytics project  
+- 🔭 I’m currently working on a Marketing Strategy Analysis project  
   
 
-- 🌱 I’m currently learning Visual Analytics and Big Data. 
+- 🌱 Expertise in Digital Marketing and  Visual Analytics. 
   
 
-- ❓ Ask me about anything related to Marketing Analytics, Machine Learning and other related technologies  
+- ❓ Ask me about anything related to Marketing Analytics, SQL and other related technologies  
   
 
 - ⚡ Fun fact: I love cats and dogs  
