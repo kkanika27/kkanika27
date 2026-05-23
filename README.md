@@ -8,10 +8,10 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 completed masters in 2023 🚀</div>  
+### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 and digital marketing leader 🚀</div>  
   
 
-- 🔭 I’m currently working on a Marketing Strategy Analysis project  
+- 🔭 I’m currently working on a Marketing AI project  
   
 
 - 🌱 Expertise in Digital Marketing and  Visual Analytics. 
