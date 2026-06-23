@@ -14,10 +14,7 @@
 - 🔭 I’m currently working on a Marketing AI project  
   
 
-- 🌱 Expertise in Digital Marketing and  Visual Analytics. 
-  
-
-- ❓ Ask me about anything related to Marketing Analytics, SQL and other related technologies  
+- 🌱 Demand Generation Leadership Backed by Marketing Analytics Expertise 
   
 
 - ⚡ Fun fact: I love cats and dogs  
