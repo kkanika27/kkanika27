@@ -4,7 +4,7 @@
 **kkanika27/kkanika27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-<img src="https://kkdatagirl.com/wp-content/uploads/2023/01/Github-Intro-scaled.jpg" align="center" style="width: 80%" />
+<img width="2560" height="1280" alt="Kanika_banner_centered" src="https://github.com/user-attachments/assets/9862bd84-297e-47d7-8f3a-63124a06dee2" align="center" style="width: 80%"/>
 </div>  
   
 
@@ -17,7 +17,7 @@
 - 🌱 Marketing analytics expertise across the full demand funnel
   
 
-- ⚡ Fun fact:  love cats and dogs 🐱🐶 🚀
+- ⚡ Fun fact:  love cats and dogs 🐱🐶
   
 
 <br/>  
