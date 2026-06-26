@@ -8,16 +8,16 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a full-time data doctor 👩🏻‍💻 and digital marketing leader 🚀</div>  
+### <div align="center">I'm Kanika, a demand generation leader and data scientist 🚀
+
+  
+- 🔭 Currently working on a Marketing AI project 
   
 
-- 🔭 I’m currently working on a Marketing AI project  
+- 🌱 Marketing analytics expertise across the full demand funnel
   
 
-- 🌱 Demand Generation Leadership Backed by Marketing Analytics Expertise 
-  
-
-- ⚡ Fun fact: I love cats and dogs  
+- ⚡ Fun fact:  love cats and dogs 🐱🐶 🚀
   
 
 <br/>  
