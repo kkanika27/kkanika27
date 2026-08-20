@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, a demand generation leader and data scientist 🚀
+### <div align="center">I'm Kanika, Marketing operations leader with a data science background, building automation and analytics projects to connect marketing to pipeline. 🚀
 
   
 - 🔭 Currently working on a Marketing AI project 
