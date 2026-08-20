@@ -8,16 +8,12 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, Marketing operations leader with a data science background, building automation and analytics projects to connect marketing to pipeline. 🚀
+### <div align="center">I'm Kanika, Marketing Operations & Demand Generation Leader, scaling pipeline through strategy, AI automation, and analytics, with an Applied Data Science background. 🚀
 
   
-- 🔭 Currently working on a Marketing AI project 
+- 🔭 Currently learning to build custom marketing tools with AI-assisted "vibe coding"
   
-
-- 🌱 Marketing analytics expertise across the full demand funnel
-  
-
-- ⚡ Fun fact:  love cats and dogs 🐱🐶
+- ⚡ Fun fact: love cats and dogs 🐱🐶
   
 
 <br/>  
