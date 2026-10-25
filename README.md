@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Kanika, Marketing Operations & Demand Generation Leader, scaling pipeline through strategy, AI automation, and analytics, with an Applied Data Science background. 🚀
+### <div align="center">Hi, I’m Kanika. I work in B2B demand generation and marketing operations, and I use data science to connect marketing data to pipeline. This is where I keep the analysis and tools behind that work. 🚀
 
   
 - 🔭 Currently learning to build custom marketing tools with AI-assisted "vibe coding"
